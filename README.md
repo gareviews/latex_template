@@ -1,2 +1,3 @@
-# latex_template
-Template for writing LaTeX documents
+# Template for Geometric Analysis Reviews
+
+This just contains some basic macros and Bibtex file.
